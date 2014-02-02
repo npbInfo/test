@@ -1,6 +1,3 @@
 bla bla 3efdf
-aaa1<<<<<<< .mine
+aaa1
 
-=======
-
->>>>>>> .theirs
