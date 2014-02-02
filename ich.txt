@@ -1,6 +1,3 @@
 bla bla 3efdf
-<<<<<<< HEAD
-bbb
-=======
-aaa
->>>>>>> 6bb0a72c898140681d67851314c3ddee601337aa
+aaa1
+
